@@ -76,13 +76,12 @@ Then open in your browser: [http://localhost:8501](http://localhost:8501)
 ## 👨‍💻 Developer
 **Made by [Marwan Ashraf](https://linkedin.com/in/marwanashraf0)**
 
-- 🔗 [GitHub](https://github.com/marwanashraf0)
-- 🔗 [LinkedIn](https://linkedin.com/in/marwanashraf0)
-
+- 🔗 [GitHub](https://github.com/marwanx216)
+- 🔗 [LinkedIn](https://linkedin.com/in/marwan-ashraf-8a503b20a)
 ---
 
 ## 📜 License
-This project is open source and free to use under the MIT License.
+This project is open source and free to use.
 
 ---
 
