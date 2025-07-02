@@ -1,0 +1,10 @@
+# Ignore temporary and cache files
+temp/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.m4a
+*.zip
+*.pt
+.cache/
