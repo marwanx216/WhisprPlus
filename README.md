@@ -33,7 +33,7 @@ WhisprPlus is an AI-powered transcription web app built with **OpenAI Whisper**,
 ![Screenshot (259)](https://github.com/user-attachments/assets/975867bf-a432-4762-a25c-e46527a04dde)
 
 ### Diarization
-![Uploading Screenshot (256).png…]()
+![Screenshot (256)](https://github.com/user-attachments/assets/4e385353-4eb0-4052-835c-d1a5b461526d)
 
 ### Analytics
 ![Screenshot (257)](https://github.com/user-attachments/assets/ca119c5b-0b70-4656-860a-ba2372b50365)
